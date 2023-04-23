@@ -1,0 +1,6 @@
+nodejs/node_modules
+nodejs/.env
+index.old.js
+
+python/config.py
+__pycache__
